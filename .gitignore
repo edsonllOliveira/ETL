@@ -1,0 +1,9 @@
+# Ignorar executáveis
+*.exe
+
+# Ignorar pastas de configuração do VS Code e ferramentas
+.devcontainer/
+.vscode/
+OllamaSetup.exe
+trilha-python-dio/
+.env
