@@ -56,7 +56,6 @@ O arquivo SDW2023_finalizado.csv será gerado automaticamente.
 text/
 ├── SDW2023.csv                  # Arquivo de entrada
 ├── SDW2023_finalizado.csv       # Arquivo de saída (gerado)
-├── main.py                      # Script principal do ETL
 ├── .env                         # Chave da API (não versionar)
 ├── README.md
 └── requirements.txt
